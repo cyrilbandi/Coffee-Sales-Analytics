@@ -8,33 +8,26 @@ The reprot consolidates sales data across multiple locations, product categories
 📊 **Dashboard Highlights**
 
 The power BI report includes:
-1. Key Performance Indicators (KPIs)
-   
-   a. Total Revenue
-   
-   b. Average Order Value
-   
-   c. Total Units Sold
-   
-   d. Total Transactions
-   
-   e. Average Shop Value
 
- 2. Sales Analysis
+A. **Key Performance Indicators (KPIs)**
 
-    a. Revenue by store location
+   1. Total Revenue
+   2. Average Order Value
+   3. Total Units Sold
+   4. Total Transactions
+   5. Average Shop Value
 
-    b. Revenue by product category
+B. **Sales Analysis**
 
-    c. Total units sold by product category
+   1.  Revenue by store location
+   2.  Revenue by product category
+   3.  Total units sold by product category
+   4.  Monthly sales trends
 
-    d. Monthly sales trends
+c. **Comparative Insights**
 
-3. Comparative Insights
-
-     a. Store-wise transaction distribution
-
-     b. Product category contribution to total sales
+   1. Store-wise transaction distribution
+   2. Product category contribution to total sales
 
 🛠 **Tools & Technologies**
 
@@ -55,10 +48,24 @@ This project uses the *Coffee Shop Sales* dataset from **Maven Analytics Data Pl
 **Source** : https://mavenanalytics.io/data-playground/coffee-shop-sales
 
 📂 **Repository Contents**
+   1. *Coffee Shop Sales Dashboard.pbix* - Power BI report file
+   2. *README.md* - Project documentation
+   3. *Dashboard Screenshot* - Preview of the final dashboard
 
-  1. README.md - Project documentation
+🚀 **How to Use**
 
-  2. Coffee Shop Sales Dashboard.pdf - preview of the final dashboard 
+   1. Download the .pbix file from this repository
+   2. open it using Power BI Desktop
+   3. Interact with slicers and visuals to explore insights
+
+📬 **Contact**
+
+If you have feedback, suggestions, or collaboration ideas, feel free to connect.
+
+⭐ *If you find this project useful, don't forget to star the repository!*
+
+
+
 
 
 
