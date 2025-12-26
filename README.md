@@ -1,11 +1,11 @@
 # Coffee-Sales-Analytics
-📌 **Project Overview**
+**Project Overview**
 
 This project presents an interactive Power BI dashboard designed to analyse and visualise coffee shop sales performance. The dashboard provides actionable insights into revenue, sales trends, product performace, and store wise transactions to support data-driven business decisions.
 
 The reprot consolidates sales data across multiple locations, product categories, and time periods into a single, user-friendly dashboard.
 
-📊 **Dashboard Highlights**
+ **Dashboard Highlights**
 
 The power BI report includes:
 
@@ -29,17 +29,17 @@ c. **Comparative Insights**
    1. Store-wise transaction distribution
    2. Product category contribution to total sales
 
-🛠 **Tools & Technologies**
+**Tools & Technologies**
 
-🗄️ **SQL** - SQL queries for KPI Validation - SQL was used to cross-check and validate KPI values displayed in the Power BI dashboard, ensuring accuracy and consistency
+**SQL** - SQL queries for KPI Validation - SQL was used to cross-check and validate KPI values displayed in the Power BI dashboard, ensuring accuracy and consistency
 
-📊 **Power BI** - Data modeling, DAX, and interactive visualisations. 
+**Power BI** - Data modeling, DAX, and interactive visualisations. 
 
-🧹 **Data Cleaning & Transformation** - Power Query
+**Data Cleaning & Transformation** - Power Query
 
-📈 **Visualisation Techniques** - KPIs, bar charts, donut charts, slicers
+**Visualisation Techniques** - KPIs, bar charts, donut charts, slicers
 
-🔗 **Data Source** 
+**Data Source** 
 
 This project uses the *Coffee Shop Sales* dataset from **Maven Analytics Data Playground**, a well-known platform for analytics practice datasets. 
 
@@ -47,18 +47,18 @@ This project uses the *Coffee Shop Sales* dataset from **Maven Analytics Data Pl
 
 **Source** : https://mavenanalytics.io/data-playground/coffee-shop-sales
 
-📂 **Repository Contents**
+**Repository Contents**
    1. *Coffee Shop Sales Dashboard.pbix* - Power BI report file
    2. *README.md* - Project documentation
    3. *Dashboard Screenshot* - Preview of the final dashboard
 
-🚀 **How to Use**
+**How to Use**
 
    1. Download the .pbix file from this repository
    2. open it using Power BI Desktop
    3. Interact with slicers and visuals to explore insights
 
-📬 **Contact**
+**Contact**
 
 If you have feedback, suggestions, or collaboration ideas, feel free to connect.
 
